@@ -66,14 +66,14 @@ body{
 }
 
 
-.url.box a {
+/* .url.box a {
   display: none;
-}
+} */
 
-.url.box {
+/* .url.box {
   animation: bootAndClippy 3s steps(1) none;
   animation-fill-mode: forwards;
-}
+} */
 
 /*@keyframes bootAndClippy {
   from {
@@ -112,7 +112,7 @@ body{
 }
 */
 #hSub {
-  background: url(https://i.imgur.com/pUn7pAu.png) #D4D1CC !important;
+  background: url(https://vignette.wikia.nocookie.net/fireemblem/images/8/89/Sword_of_Begalta2_.jpg) #D4D1CC !important;
   border-bottom: 1px solid #ccc !important;
   padding-bottom: 8px !important;
 }
